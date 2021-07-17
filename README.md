@@ -66,3 +66,25 @@ Here are some ideas to get you started:
 </p>
 
   
+  
+   ## ✨ Tools, IDEs and Softwares:
+
+<p align="left"> 
+    <a href="https://colab.research.google.com/notebooks/intro.ipynb?utm_source=scs-index" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNtO_1W-uh3BGIMYn1ljhea-5-CzcUwL0vs6akWsuXCBdidSKwf2d4EvTf35zRZvcBvV0&usqp=CAU" alt="express" width="40" height="40"/> </a>
+    <a href="https://atom.io/"> <img src="https://img-premium.flaticon.com/png/512/3074/premium/3074119.png?token=exp=1626555999~hmac=2a1e95b7621c0c776e6670eedc9de410" alt="express" width="44" height="44"/ > </a>
+    <a href="https://jupyter.org/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTQfO8XdRaElU-oiMX4jJFWjNO56ihBj8vLWl-8tZR0xFr4LL4nfzfXWLVCFeOjsGAZF4&usqp=CAU" alt="express" width="44" height="44"/> </a>
+    <a href="https://www.spyder-ide.org/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG4nmLnUDqDJMNYnvoIw2LrMP67vPbDNngRztSxwDftPQ7Hjk6gtHYIOwjQuCU0CILeT8&usqp=CAU" alt="express" width="40" height="40" /> </a>   
+</p>
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
