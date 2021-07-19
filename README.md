@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 
   
   
-   ## ✨ Tools, IDEs and Softwares:
+   ##  💥  Tools, IDEs and Softwares:
 
 <p align="left"> 
     <a href="https://www.spyder-ide.org/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG4nmLnUDqDJMNYnvoIw2LrMP67vPbDNngRztSxwDftPQ7Hjk6gtHYIOwjQuCU0CILeT8&usqp=CAU" alt="express" width="43" height="40" /> </a> 
@@ -153,7 +153,7 @@ Here are some ideas to get you started:
   
   
   
-  ## Let's talk more:
+  ## ⚡️ Let's talk more:
 
 <p align="left"> 
     <a href="https://www.linkedin.com/in/sumanth-bajjuri/" target="_blank"> <img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="express" width="37" height="37"/> </a>
