@@ -107,6 +107,28 @@ Here are some ideas to get you started:
   
   
   
+  
+  
+  
+  
+  
+  <a href="https://github.com/SumanthBajjuri07/project-football-matches">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SumanthBajjuri07&repo=project-football-matches" />
+</a>
+<a href="https://github.com/SumanthBajjuri07/investigating-netflix-movies-and-guest-stars-in-the-office">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SumanthBajjuri07&repo=investigating-netflix-movies-and-guest-stars-in-the-office" />
+</a>
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
   ## Let's talk more:
 
 <p align="left"> 
