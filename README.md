@@ -122,7 +122,41 @@ Here are some ideas to get you started:
   
   ![Sumanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=SumanthBajjuri07&show_icons=true&theme=great-gatsby&count_private=true&hide=issues)
 
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center"  src="https://github-readme-stats.vercel.app/api?username=SumanthBajjuri07&theme=great-gatsby&count_private=true&hide=issues"  />
+</a>
 
+
+  
+  
+  
+  
+  
+  
+  
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
   
   
   
