@@ -108,7 +108,27 @@ Here are some ideas to get you started:
 </a>
 
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
   ![Sumanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=SumanthBajjuri07&show_icons=true&theme=great-gatsby&count_private=true&hide=issues)
+  
+  
+  
+  
+  
+  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SumanthBajjuri07&theme=great-gatsby&layout=compact&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
 
 
