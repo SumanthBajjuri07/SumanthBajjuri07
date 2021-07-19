@@ -87,14 +87,11 @@ Here are some ideas to get you started:
 </p>
 
  
-  
+  <br>
+  <br>
+  <br>
   
 
-  
-  
-   
- 
-  
   
   <a href="https://github.com/SumanthBajjuri07/android-app-market-on-Gplay">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SumanthBajjuri07&repo=android-app-market-on-Gplay&theme=great-gatsby" />
@@ -103,15 +100,6 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SumanthBajjuri07&repo=clear-date-predictor&theme=great-gatsby" />
 </a>
 
- 
-  
-  
-  
-  
-  
-  
-  
-  
   <a href="https://github.com/SumanthBajjuri07/project-football-matches">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SumanthBajjuri07&repo=project-football-matches&theme=great-gatsby" />
 </a>
@@ -121,45 +109,23 @@ Here are some ideas to get you started:
 
   
   ![Sumanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=SumanthBajjuri07&show_icons=true&theme=great-gatsby&count_private=true&hide=issues)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SumanthBajjuri07&theme=great-gatsby&layout=compact&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
+
 
   
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  
+   
+ <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center"  src="https://github-readme-stats.vercel.app/api?username=SumanthBajjuri07&theme=great-gatsby&count_private=true&hide=issues"  />
 </a>
-
-
-  
-  
-  
-  
-  
-  
+-->
   
 
-
-
   
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
+  <br>
+  <br>
+  <br>
   
   
   
