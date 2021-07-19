@@ -124,7 +124,7 @@ Here are some ideas to get you started:
   
   
   
-  ![Sumanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=SumanthBajjuri07&show_icons=true&theme=great-gatsby&count_private=true&hide=issues)
+  ![Sumanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=SumanthBajjuri07&show_icons=true&theme=great-gatsby&count_private=true&hide=issues&include_all_commits=true)
   
   
   
