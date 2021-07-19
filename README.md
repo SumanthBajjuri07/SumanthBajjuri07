@@ -86,7 +86,14 @@ Here are some ideas to get you started:
   
 </p>
 
+ 
   
+  
+
+  
+  
+   
+ 
   
   
   <a href="https://github.com/SumanthBajjuri07/android-app-market-on-Gplay">
@@ -99,6 +106,14 @@ Here are some ideas to get you started:
  
   
   
+  
+  ## Let's talk more:
+
+<p align="left"> 
+    <a href="https://www.linkedin.com/in/sumanth-bajjuri/" target="_blank"> <img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="express" width="37" height="37"/> </a>
+    <a href="sumanth.bajjuri8121@gmail.com" target="_blank"> <img src="https://image.flaticon.com/icons/png/512/732/732200.png" alt="express" width="42" height="42"/ > </a>
+   
+</p>
   
   
   
