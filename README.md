@@ -108,7 +108,12 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SumanthBajjuri07&repo=investigating-the-netflix-movies&theme=great-gatsby" />
 </a>
 
-  
+  <a href="https://github.com/SumanthBajjuri07/disney-movies-and-the-box-office-success">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SumanthBajjuri07&repo=disney-movies-and-the-box-office-success&theme=great-gatsby" />
+</a>
+<a href="https://github.com/SumanthBajjuri07/collab">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SumanthBajjuri07&repo=collab&theme=great-gatsby" />
+</a>
   
   
  
