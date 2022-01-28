@@ -109,7 +109,12 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SumanthBajjuri07&repo=Recommendation-System&theme=great-gatsby" />
 </a>
   
-  
+   <a href="https://github.com/SumanthBajjuri07/Credit-Fraud-Detection">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SumanthBajjuri07&repo=Credit-Fraud-Detection&theme=great-gatsby" />
+</a>
+<a href="https://github.com/SumanthBajjuri07/CodeChef-01">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SumanthBajjuri07&repo=CodeChef-01&theme=great-gatsby" />
+</a>
    
   
   <a href="https://github.com/SumanthBajjuri07/project-football-matches">
