@@ -100,6 +100,19 @@ Here are some ideas to get you started:
 <a href="https://github.com/SumanthBajjuri07/clear-date-predictor">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SumanthBajjuri07&repo=clear-date-predictor&theme=great-gatsby" />
 </a>
+  
+  
+  
+   <a href="https://github.com/SumanthBajjuri07/Uber-Data-Analysis">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SumanthBajjuri07&repo=
+Uber-Data-Analysis&theme=great-gatsby" />
+</a>
+<a href="https://github.com/SumanthBajjuri07/Recommendation-System">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SumanthBajjuri07&repo=
+Recommendation-System&theme=great-gatsby" />
+</a>
+
+  
 
   <a href="https://github.com/SumanthBajjuri07/project-football-matches">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SumanthBajjuri07&repo=project-football-matches&theme=great-gatsby" />
